@@ -18,4 +18,4 @@ This repository contains our group research paper titled **"Software Engineering
 You can download the **CSC1099-4-Mahal-Shah-Ali-Aderibigbe-Coynetyrrell.pdf** file to read our findings.  
 
 ```bash
-git clone https://github.com/shahf3/Research-Paper.git
+git clone https://github.com/shahf3/ResearchPaper.git
